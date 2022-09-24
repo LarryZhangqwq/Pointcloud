@@ -1,0 +1,8 @@
+sudo apt-get install ros-${ROS_DISTRO}-ros-numpy
+conda install -c open3d-admin open3d
+conda install pyyaml
+conda install -c conda-forge rospkg
+conda install scikit-learn
+conda install -c conda-forge addict
+conda install -c anaconda pandas
+conda install -c conda-forge plyfile
